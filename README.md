@@ -1,4 +1,5 @@
 # **Credit Card Fraud Detection using Scikit-Learn and Snap ML**
+![CreditCardFraudDetection](https://storage.googleapis.com/kaggle-datasets-images/310/684/3503c6c827ca269cc00ffa66f2a9c207/dataset-cover.jpg)
 ------
 In this exercise session, we consolidated our machine learning (ML) modelling skills by using two popular classification models to recognize fraudulent credit card transactions. The models were [`Decision Tree`](https://en.wikipedia.org/wiki/Decision_tree) and [`Support Vector Machine`](https://en.wikipedia.org/wiki/Support_vector_machine). We used a real dataset to train each of these models. The dataset included information about transactions made by credit cards in September 2013 by European cardholders. We used the trained model to assess whether a credit card transaction was legitimate.
 
