@@ -18,3 +18,6 @@ It was exciting to learn how to use these two popular classification models to d
 - Model a classification task using the Scikit-Learn and Snap ML Python APIs
 - Train Support Vector Machine and Decision Tree models using Scikit-Learn and Snap ML
 - Run inference and assess the quality of the trained models
+
+## Dataset
+You can get the dataset used for the project from [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud).
